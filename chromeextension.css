@@ -4,6 +4,7 @@
     padding: 10px;
     box-sizing: border-box;
     border: 2px solid #5f9341;
+    min-width:400px;
 }
 #b1
 {
